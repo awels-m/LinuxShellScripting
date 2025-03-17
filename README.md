@@ -1,6 +1,8 @@
 # LinuxShellScripting
 a shell scripting project on Linux done by me. 
 
+this projet centers on shell scripting and understanding shell scripting fully. during the course of this project, i have gained deep understanding of the concept of shell scripting as well as how to execute a bash script. i was able to run these tasks in the project successfully. i also learnt the use of variables and how to attach values to each variables. i went ahead to widen my knowledge on this by applying more examples and testing out extra examples outside the scope of the project so taht i can gain mastery in shell scripting and i succeded in doing so. 
+
 # The First Task
 ## Create a folder on my ubuntu server and name it shell-scripting
 This is done by using the command "mkdir" and the name of the folder we intend to create. 
